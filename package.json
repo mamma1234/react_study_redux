@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "immer": "^5.2.1",
+    "immer": "^8.0.1",
     "immutable": "^4.0.0-rc.12",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
